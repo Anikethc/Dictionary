@@ -18,7 +18,7 @@ You have the right to download, modify, and share it to others. But, don't sell 
 
 ## Issues & Bugs
 
-If you encounter any issues or bugs, you can visit the 'Issues' tab in my repository and create an issue. I will immediately look into it and resolve as soon as possible.
+If you encounter any issues or bugs, you can visit the 'Issues' tab in my repository and create an issue. I will immediately look into it and resolve it as soon as possible.
 
 ## Any Doubts or Questions
 
